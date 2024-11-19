@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734313846805",
+    "project_id": "replate-it-dd479",
+    "storage_bucket": "replate-it-dd479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734313846805:android:0ff1f3a35e5e7d6a53961c",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyY4ECJFNQCDTVSdchc7y2gl0AVU7iL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
